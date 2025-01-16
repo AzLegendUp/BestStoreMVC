@@ -54,7 +54,7 @@ Project Structure
 
 # The project is organized into the following folders:
 
-Models/: Contains definitions of main entities like Product.
-Controllers/: Controllers responsible for handling application logic.
-Views/: Razor files for rendering views.
-wwwroot/: Static files like images, CSS, and JavaScript.
+- Models/: Contains definitions of main entities like Product.
+- Controllers/: Controllers responsible for handling application logic.
+- Views/: Razor files for rendering views.
+- wwwroot/: Static files like images, CSS, and JavaScript.
