@@ -1,9 +1,5 @@
 # BestStoreMVC
 
-
-
-# BestStoreMVC
-
 A project developed in **ASP.NET Core MVC** that implements a product store with features like product management, image handling, and database integration.
 
 ## Technologies Used
