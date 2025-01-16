@@ -8,7 +8,6 @@ A project developed in **ASP.NET Core MVC** that implements a product store with
 - **Entity Framework Core** for database interaction.
 - **SQL Server** for the database.
 - **Bootstrap** for the frontend to create a responsive and modern design.
-- 
 ## Prerequisites
 
 Before starting, ensure you have the following installed:
@@ -33,23 +32,23 @@ Open the .sln solution file in Visual Studio to load the project.
 3. Restore NuGet packages
 Visual Studio should automatically restore the required packages when opening the project. If it doesn't, follow these steps:
 
-Right-click the solution in the Solution Explorer.
-Select Restore NuGet Packages.
+- Right-click the solution in the Solution Explorer.
+- Select Restore NuGet Packages.
 
 4. Apply migrations for the database
-Open the Package Manager Console in Visual Studio.
-Run the following command to apply migrations and set up the database:
-    Update-Database
+- Open the Package Manager Console in Visual Studio.
+- Run the following command to apply migrations and set up the database:
+    -Update-Database
 5. Run the application
 To start the project, select Start Without Debugging (Ctrl + F5) in Visual Studio.
 
 # NuGet Dependencies
 This project uses the following dependencies:
 
-Microsoft.EntityFrameworkCore.SqlServer
-Used for SQL Server database connectivity.
+- Microsoft.EntityFrameworkCore.SqlServer
+  Used for SQL Server database connectivity.
 
-Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore.Tools
 Tools for managing migrations and other Entity Framework Core tasks.
 Project Structure
 
