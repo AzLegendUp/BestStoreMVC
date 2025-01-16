@@ -31,7 +31,7 @@ Follow these steps to run the project locally:
    git clone https://github.com/your-username/beststoremvc.git
    cd beststoremvc
 
- 2. Open the project in Visual Studio
+2. Open the project in Visual Studio
 Open the .sln solution file in Visual Studio to load the project.
 
 3. Restore NuGet packages
@@ -39,6 +39,7 @@ Visual Studio should automatically restore the required packages when opening th
 
 Right-click the solution in the Solution Explorer.
 Select Restore NuGet Packages.
+
 4. Apply migrations for the database
 Open the Package Manager Console in Visual Studio.
 Run the following command to apply migrations and set up the database:
