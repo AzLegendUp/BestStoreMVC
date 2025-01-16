@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
 1. Clone the repository:
      bash
    git clone https://github.com/your-username/beststoremvc.git
-   cd beststoremvc
+   
 
 2. Open the project in Visual Studio
 Open the .sln solution file in Visual Studio to load the project.
@@ -57,6 +57,6 @@ Project Structure
 - Models/: Contains definitions of main entities like Product.
 - Controllers/: Controllers responsible for handling application logic.
 - Services/: Contains services for interacting with the application.
-  ApplicationDbContext.cs: The database context class used to connect to the database for products.
+  --ApplicationDbContext.cs: The database context class used to connect to the database for products.
 - Views/: Razor files for rendering views.
 - wwwroot/: Static files like images, CSS, and JavaScript.
