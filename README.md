@@ -56,5 +56,7 @@ Project Structure
 
 - Models/: Contains definitions of main entities like Product.
 - Controllers/: Controllers responsible for handling application logic.
+- Services/: Contains services for interacting with the application.
+  ApplicationDbContext.cs: The database context class used to connect to the database for products.
 - Views/: Razor files for rendering views.
 - wwwroot/: Static files like images, CSS, and JavaScript.
