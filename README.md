@@ -22,7 +22,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
      bash
-   git clone https://github.com/your-username/beststoremvc.git
+   git clone https://github.com/AzLegendUp/BestStoreMVC.git
    
 
 2. Open the project in Visual Studio
